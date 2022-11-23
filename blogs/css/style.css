@@ -216,6 +216,7 @@ nav a:focus, nav a:hover {
 nav a:active {
     background-color: #000;
     text-decoration: line-through;
+    transform: rotate(-5deg);
 }
 
 nav {
